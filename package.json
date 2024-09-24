@@ -1,0 +1,27 @@
+{
+  "name": "realtime-tracking",
+  "version": "1.0.0",
+  "description": "Realtime tracking app!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "athithyaramaa1"
+  },
+  "keywords": [
+    "Real",
+    "time",
+    "tracking",
+    "app"
+  ],
+  "author": "V Athithya Ramaa",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7",
+    "socket.io": "^4.8.0"
+  }
+}
